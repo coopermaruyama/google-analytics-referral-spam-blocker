@@ -1,0 +1,17 @@
+{
+  "name": "ga-referral-spam-blocker",
+  "version": "1.0.0",
+  "description": "Blocks referral spam automatically, and is constantly updated with new spammers.",
+  "main": "analytics-shield.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/coopermaruyama/google-analytics-referral-spam-blocker",
+  "author": "Cooper Maruyama",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2"
+  },
+  "readme": "README.md"
+}
